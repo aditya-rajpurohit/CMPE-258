@@ -56,6 +56,8 @@ This repository contains a series of Jupyter/Colab notebooks demonstrating key d
 - Dataset: IMDb or AG News
 - TF Hub: `bert_en_uncased_L-12_H-768_A-12`
 
+[Colab Link](https://colab.research.google.com/drive/1ENr8mVmySiK7tLFewEFJR-tc4fghXyei?usp=sharing)
+
 ---
 
 ## Part 3: Zero-Shot Transfer Learning
@@ -65,6 +67,8 @@ This repository contains a series of Jupyter/Colab notebooks demonstrating key d
 
 - Zero-shot classification with OpenAI CLIP
 - Visualizes cosine similarity of image-text pairs
+
+[Colab Link](https://colab.research.google.com/drive/17lSavgvv7fRIf94lfTB5fRh5YvLvIRcP?usp=sharing)
 
 ###  BigTransfer (BiT) with TFHub
  `BigTransfer_TFHub_TransferLearning.ipynb`
