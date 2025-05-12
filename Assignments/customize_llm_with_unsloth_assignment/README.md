@@ -1,4 +1,4 @@
-# 🚀 LLM Fine-Tuning and Deployment Assignment (Unsloth + Ollama)
+# LLM Fine-Tuning and Deployment Assignment (Unsloth + Ollama)
 
 This repo includes Colab notebooks and videos for fine-tuning, continued pretraining, reward modeling, and exporting LLMs using **Unsloth** and **Ollama**.
 

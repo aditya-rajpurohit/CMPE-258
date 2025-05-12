@@ -8,23 +8,23 @@ This repository contains examples and implementations for an assignment involvin
 
 This section includes four progressively challenging Colab notebooks for **Image** and **Text** domains using `tensorflow-hub`.
 
-### 🔤 Text Projects
+### Text Projects
 
 | Level       | Description                                           | 
 |-------------|-------------------------------------------------------|
-| Easy        | Text classification using `nnlm-en-dim50`            | [Colab]()      | [Video]()          |
-| Intermediate| Sentiment analysis with pre-trained `bert` encoder   | [Colab]()      | [Video]()          |
-| Advanced    | Fine-tuning BERT on custom dataset                   | [Colab]()      | [Video]()          |
-| Expert      | Build a multi-label classifier using Universal Encoder| [Colab]()      | [Video]()          |
+| Easy        | Text classification using `nnlm-en-dim50`            |
+| Intermediate| Sentiment analysis with pre-trained `bert` encoder   |
+| Advanced    | Fine-tuning BERT on custom dataset                   |
+| Expert      | Build a multi-label classifier using Universal Encoder|
 
-### 🖼️ Image Projects
+### Image Projects
 
 | Level       | Description                                             | 
 |-------------|---------------------------------------------------------|
-| Easy        | Classify images using `mobilenet_v2`                   | [Colab]()      | [Video]()          |
-| Intermediate| Transfer learning with `inception_v3` on new data     | [Colab]()      | [Video]()          |
-| Advanced    | Custom CNN + Hub module hybrid                         | [Colab]()      | [Video]()          |
-| Expert      | Few-shot learning with `efficientnet` on custom tasks | [Colab]()      | [Video]()          |
+| Easy        | Classify images using `mobilenet_v2`                   |
+| Intermediate| Transfer learning with `inception_v3` on new data     |
+| Advanced    | Custom CNN + Hub module hybrid                         |
+| Expert      | Few-shot learning with `efficientnet` on custom tasks |
 
 ---
 
