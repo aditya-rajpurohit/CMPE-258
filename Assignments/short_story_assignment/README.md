@@ -9,7 +9,7 @@ For a simplified explanation of the topic, you can read the article on Medium:
 
 ## Video Overview
 For a detailed explanation of this topic, check out the YouTube video overview:  
-[Video Link](https://youtu.be/c1mmsA5LoCE)
+[Video Link](https://youtu.be/UU-TlumT7TI)
 
 ## Citation
 If you use insights from this work, please cite:  

@@ -25,6 +25,6 @@ This repository contains a series of Colab notebooks and walkthrough videos demo
 
 ---
 
-[Video Demo]()
+[Video Demo](https://youtu.be/yGKsOH9Wgmk)
 
 ---

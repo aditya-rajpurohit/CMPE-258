@@ -12,7 +12,8 @@ You will find executable **Google Colab notebooks** that implement and demonstra
 
 Each pattern is illustrated with a real use-case and includes **execution traces**, **debug outputs**, and a **video walkthrough** of the code and design.
 
+---
 
-[Video Demo]()
+[Video Demo](https://youtu.be/NXJAkGPFiuw)
 
 ---

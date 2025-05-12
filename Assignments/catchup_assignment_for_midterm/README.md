@@ -9,7 +9,6 @@ This repository contains a series of Google Colab notebooks that demonstrate var
 
 **b) Crop Disease Detection with Transfer Learning & Fine-Tuning** - Use a pretrained CNN (e.g., ResNet, EfficientNet) to classify crop diseases.
 
-
 [Colab Link](https://colab.research.google.com/drive/1DuXAjPr87g1VqLdiuJTQVlNALGEb86Fu?usp=sharing)
 
 
@@ -35,4 +34,6 @@ This repository contains a series of Google Colab notebooks that demonstrate var
 
 ---
 
-[Video Demo]()
+[Video Demo](https://youtu.be/jEbg0mT757g)
+
+---

@@ -10,7 +10,7 @@ This repository contains a series of Jupyter/Colab notebooks demonstrating key d
 
 ---
 
-[Video Demo]()
+[Video Demo](https://youtu.be/JDbQJxnPFI0)
 
 ---
 

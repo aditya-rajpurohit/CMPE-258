@@ -6,7 +6,7 @@ This notebook demonstrates various **vision-language tasks** using **Multimodal 
 
 [Colab Link](https://colab.research.google.com/drive/13cVF8V1hIh7uc1q44Hqdtja9t_EPWzzR?usp=sharing)
 
-[Video Demo]()
+[Video Demo](https://youtu.be/vMMvsemGp0M)
 
 ---
 
