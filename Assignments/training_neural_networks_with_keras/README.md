@@ -11,7 +11,10 @@ This project demonstrates various techniques in **deep learning generalization**
 
 - [Part 1: Augmentation & Regularization](#-part-1-augmentation--regularization)
 - [Part 2: Advanced Keras Customization](#-part-2-advanced-keras-customization)
-- [Video Explanation](#-video-explanation)
+
+---
+
+[Video Demo](https://youtu.be/DtWkxSqxBO4)
 
 ---
 
